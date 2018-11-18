@@ -24,3 +24,6 @@ npm run start
 Now listen on localhost:3000 static files
 
 Enter http://localhost:3000/welcome for express funcion route
+
+Add tslint
+Add tslint-loader to webpack
