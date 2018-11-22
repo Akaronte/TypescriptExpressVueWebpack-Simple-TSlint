@@ -23,14 +23,12 @@
 import Vue from "vue";
 
 export default Vue.extend({
-    name: 'app',
     data() {
         return {
-             msg: 'Welcome to Your Vue.js App'
-        }
-    }
+             msg: "Welcome to Your Vue.js App",
+        };
+    },
 });
-console.log('test')
 </script>
 
 <style lang="scss">
