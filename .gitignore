@@ -1,8 +1,11 @@
 .DS_Store
 node_modules/
-!dist/index.html
-dist
-dist/*
+dist/build.js
+dist/build.js.map
+dist/logo.png
+dist/main.js
+dist/server.js
+dist/controllers
 npm-debug.log
 yarn-error.log
 
